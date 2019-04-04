@@ -1,0 +1,5 @@
+url = jdbc:mysql://localhost:3306/jumpsecond1903
+dbuser = trainee
+passwd = trainee
+driverclass = com.mysql.cj.jdbc.Driver
+poolsize = 10
